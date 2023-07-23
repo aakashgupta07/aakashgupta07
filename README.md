@@ -1,6 +1,6 @@
 <img align="centre" alt="Coding" width="1000" src="https://cdn.dribbble.com/users/2131993/screenshots/9708020/developer2_ai_open_file_dribbble-01_4x.png">
 <h1 align="center">Hi 👋, I'm Aakash Gupta</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer </h3>
 
 <p align="left"> <img src="https://cdn.dribbble.com/users/461802/screenshots/4753031/designergif.gif" alt="aakashgupta07" /> </p>
 
