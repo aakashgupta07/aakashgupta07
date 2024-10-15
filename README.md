@@ -5,10 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aakashgupta07" alt="aakashgupta07" /></a> </p>
 
-- 🔭 I’m currently working on **Amazon clone**
-
-- 🌱 I’m currently learning **Javascript**
-
 - 📫 How to reach me **aakashhprof@gmail.com**
 
 - ⚡ Fun fact **I create a meme**
